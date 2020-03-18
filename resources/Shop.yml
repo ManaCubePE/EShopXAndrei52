@@ -6,7 +6,7 @@ version: "0.5"
 enchanting-table: true
 
 #EnchantUI version 0.5
-Title: "§bEnchant"
+Title: "§bEnchant Forge"
 Button: "§3{NAME} §a{PRICE}$"
 slider-title: "§5Level"
 messages:
